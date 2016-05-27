@@ -46,3 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /target/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings
+bin/
+.recommenders/
